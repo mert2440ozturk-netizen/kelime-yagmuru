@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Sanal ortam ve IDE
+.venv/
+venv/
+.idea/
+
+# Oyunun kendi oluşturduğu rekor dosyası
+kelime_yagmuru_rekor.txt
